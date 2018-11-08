@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "we-are-sca-works.Plugins", "we-are-sca-works.Plugins.csproj", "{F043AC33-AA0F-3D24-7A01-F93F5DB73525}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "we-are-sca-works", "we-are-sca-works.csproj", "{04A16CF8-1241-F298-C9AC-2EE5D589FFD1}"
+EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "we-are-sca-works.Editor.Plugins", "we-are-sca-works.Editor.Plugins.csproj", "{FD33C047-770E-72B0-B772-28B30A9C0065}"
 EndProject
 Global
@@ -15,6 +17,10 @@ Global
 		{F043AC33-AA0F-3D24-7A01-F93F5DB73525}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F043AC33-AA0F-3D24-7A01-F93F5DB73525}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F043AC33-AA0F-3D24-7A01-F93F5DB73525}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04A16CF8-1241-F298-C9AC-2EE5D589FFD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04A16CF8-1241-F298-C9AC-2EE5D589FFD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04A16CF8-1241-F298-C9AC-2EE5D589FFD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04A16CF8-1241-F298-C9AC-2EE5D589FFD1}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FD33C047-770E-72B0-B772-28B30A9C0065}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FD33C047-770E-72B0-B772-28B30A9C0065}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD33C047-770E-72B0-B772-28B30A9C0065}.Release|Any CPU.ActiveCfg = Release|Any CPU
