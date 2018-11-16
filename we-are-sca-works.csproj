@@ -247,6 +247,7 @@
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Script\ItemeGet.cs" />
     <Compile Include="Assets\Script\SceneCenge.cs" />
   </ItemGroup>
   <ItemGroup>
